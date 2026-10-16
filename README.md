@@ -1,3 +1,12 @@
 # Clay & Co.
 
-Upload all files in this folder to the GitHub repository root. Keep favicon.svg, favicon.ico and favicon-180.png beside index.html.
+GitHub Pages-ready static storefront.
+
+Upload all files in this folder to the repository root.
+
+Policy pages:
+- shipping.html
+- returns.html
+- privacy.html
+
+Favicon files must stay beside index.html.
